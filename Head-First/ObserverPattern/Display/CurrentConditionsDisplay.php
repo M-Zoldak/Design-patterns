@@ -1,6 +1,6 @@
 <?php
 
-namespace ObserverPattern\Displays;
+namespace ObserverPattern\Display;
 
 use ObserverPattern\Interface\DisplayElement;
 use ObserverPattern\Interface\Observer;

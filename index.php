@@ -1,6 +1,6 @@
 <?php
 
-use ObserverPattern\Displays\CurrentConditionsDisplay;
+use ObserverPattern\Display\CurrentConditionsDisplay;
 use ObserverPattern\WeatherData;
 
 include_once "vendor/autoload.php";
